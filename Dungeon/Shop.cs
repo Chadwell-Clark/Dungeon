@@ -40,7 +40,8 @@ namespace Dungeon
                 Console.WriteLine($"  |   (P)otions :        $ {potionP}");
                 Console.WriteLine($"  |   (D)ifficulty Mod : $ {difP}");
                 Console.WriteLine("  ==============================");
-                Console.WriteLine("            (E)xit ");
+                Console.WriteLine("            (E)xit Store");
+                Console.WriteLine("            (Q)uit Game");
                 Console.WriteLine();
                 Console.WriteLine();
 
@@ -71,6 +72,10 @@ namespace Dungeon
                 else if (input == "d" || input == "difficulty")
                 {
                     TryBuy("dif", difP, p);
+                }
+                else if (input == "q" || input == "quit")
+                {
+                    Program.Quit();
                 }
                 else if (input == "e" || input == "exit")
                     break;
