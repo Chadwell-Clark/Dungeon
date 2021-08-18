@@ -1,0 +1,16 @@
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.exe
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.deps.json
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.runtimeconfig.json
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.runtimeconfig.dev.json
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.dll
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\ref\Dungeon.dll
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\bin\Debug\net5.0\Dungeon.pdb
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.csproj.AssemblyReference.cache
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.AssemblyInfoInputs.cache
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.AssemblyInfo.cs
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.dll
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\ref\Dungeon.dll
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.pdb
+C:\Users\Chad\workspace\csharp\Dungeon\Dungeon\obj\Debug\net5.0\Dungeon.genruntimeconfig.cache
